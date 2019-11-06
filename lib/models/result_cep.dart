@@ -10,6 +10,7 @@ class ResultCep {
   String unidade;
   String ibge;
   String gia;
+  String label;
 
   ResultCep({
     this.cep,
@@ -21,6 +22,7 @@ class ResultCep {
     this.unidade,
     this.ibge,
     this.gia,
+    this.label,
   });
 
   factory ResultCep.fromJson(String str) => ResultCep.fromMap(json.decode(str));

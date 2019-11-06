@@ -2,26 +2,25 @@
 
 Aplicativo para consultar CEP através da API do VIA CEP
 
-Tutorial de criação deste app: http://bit.ly/2kcGFQh
-
 <p align="center">
-    <img src="https://miro.medium.com/max/1440/1*St_MBopTzlcfQzasVw1-GA.png" width="800"/>
+    <img src="https://github.com/jrflavio/search-cep-aulas-flutter/blob/master/lib/images/screenshot_1.png" height="400"/>
+    <img src="https://github.com/jrflavio/search-cep-aulas-flutter/blob/master/lib/images/screenshot_2.png" height="400"/>
+    <img src="https://github.com/jrflavio/search-cep-aulas-flutter/blob/master/lib/images/screenshot_3.png" height="400"/>
 </p>
 
-## Como clonar e importar
+## Alunos
 
--   Faça um fork do projeto
--   Abra o terminal do Visual Studio Code
--   Digite (troque kleberandrade pelo nome do seu usuários): git clone https://github.com/kleberandrade/search-cep-aulas-flutter search_cep
+- Flávio Júnior - 0040481821004
+- Gustavo Messias - 0040481821039
 
 ## Desafios
 
--   Criar e usar temas Light e Dart (para saber mais sobre temas [clique aqui](https://flutter.dev/docs/cookbook/design/themes), e se você quiser usar um editor de temas [clique aqui](https://rxlabz.github.io/panache/#/))
--   Criar um IconButton na AppBar para alternar entre os temas (dica: use o [plugin dynamic_theme](https://pub.dev/packages/dynamic_theme))
--   Criar um formulário para adicionar todas os campos do JSON ([formulários](https://flutter.dev/docs/cookbook/forms))
--   Validar o campo de digitação de CEP ([validações em flutter](https://medium.com/@nitishk72/form-validation-in-flutter-d762fbc9212c))
--   Tratar todas [exceções](https://www.youtube.com/watch?v=qAzxZJ8NRwI) e utilize [Flushbar](https://pub.dev/packages/flushbar) para exibir os erros para o usuário
--   Adicionar um IconButton na AppBar para compartilhar o CEP (utilize o [plugin share](https://pub.dev/packages/share))
+-   [X] Criar e usar temas Light e Dark.
+-   [X] Criar um IconButton na AppBar para alternar entre os temas.
+-   [X] Criar um formulário para adicionar todas os campos do JSON.
+-   [X] Validar o campo de digitação de CEP.
+-   Tratar todas [exceções] e utilize [Flushbar] para exibir os erros para o usuário.
+-   [X] Adicionar um IconButton na AppBar para compartilhar o CEP.
 
 ## Licença
 
